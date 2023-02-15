@@ -67,11 +67,12 @@ Ordered List
 3. SHOES: SHADES
 
     3.1. BUY THE BIKE !!!
-    4. 2 Let's RIDE
+    4.2. Let's RIDE
     
 ---
 <!-- ADD IMAGE -->
-![image text]([https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png](https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/Coder2023.png))
+![MY BIKE](https://images.pexels.com/photos/100582/pexels-photo-100582.jpeg?auto=compress&cs=tinysrgb&w=600)
+
 ---
 
 <!-- Code Block -->
