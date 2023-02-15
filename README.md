@@ -26,3 +26,28 @@ __YOU STRONG__
 ~~I was chess player before~~ but then I want to cyclist to travel anywhere.
 
 ---
+
+<!--  HORIZONTAL LINE --->
+pew 
+---
+pew pew pew 
+___
+
+<!--  Escape Character Rule with Backslash  -->
+*Pickle pee* \*Pickle pee*, *Pump-a-rum* \*Pump-a-rum*
+
+--- 
+
+<!--  Blockquote Rule -->
+> Use \> to display a block of text
+
+---
+<!--  Links  -->
+
+**WATCH THIS FOR A GUIDE REGARDING LINKS**:
+[HOW TO ADD LINKS](https://www.youtube.com/watch?v=9czg4DSaRTM&list=PLHztOObXYCYGL2DNt5yVzeTyyyohG50tv&index=9)
+
+__NOTE: Adding a balloon tip description to our links__
+[Renai Circulation](https://www.youtube.com/watch?v=RQmEERvqq70/ "Everybody's Circulation")
+
+---
