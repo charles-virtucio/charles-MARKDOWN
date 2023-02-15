@@ -70,3 +70,44 @@ Ordered List
 
 ---
 
+<!-- Code Block -->
+
+**Note**: To display a code block you need to use \`
+
+`gobuster dns -d mydomain.thm -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt`
+
+---
+
+<!-- GitHub Flavor Set of Code Block -->
+
+```install gobuster
+sudo apt install gobuster
+```
+
+**NOTE**: Specifying syntax code blocks
+
+```javascript
+function testAdd(num1,num2){
+  return num1 + num2;
+}
+```
+
+```python
+def testAdd(num1, num2):
+  return num1 + num2
+```
+
+---
+
+<!-- Table Rules -->
+|  Name  |  Breed  |  DoB  |
+|--------|---------|-------|
+| Tofee  | ShihTzu | 02/21 |
+| Adrian | ShihTzu | 01/23 |
+
+---
+
+<!-- Task Lists -->
+* [x] Ride a bike
+* [ ] Play Chess
+* [x] Learn to code
