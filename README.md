@@ -54,10 +54,10 @@ __NOTE: Adding a balloon tip description to our links__
 <!--  Unordered Lists -->
 
 Unordered Lists
-* Sober
-* Chichi
-  * Tipsy
-  * Dixie
+* Pizza
+* Chicken
+  * Tapsilog
+  * Hotdog
 
 <!--  Ordered Lists -->
 
@@ -100,10 +100,10 @@ def testAdd(num1, num2):
 ---
 
 <!-- Table Rules -->
-|  Name  |  Breed  |  DoB  |
+|  Name  | Nickname|  Age  |
 |--------|---------|-------|
-| Tofee  | ShihTzu | 02/21 |
-| Adrian | ShihTzu | 01/23 |
+| Charles| charlie |   20  |
+| Adrian | adriyan |   21  |
 
 ---
 
