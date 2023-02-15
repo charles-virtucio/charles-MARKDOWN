@@ -51,3 +51,22 @@ __NOTE: Adding a balloon tip description to our links__
 [Renai Circulation](https://www.youtube.com/watch?v=RQmEERvqq70/ "Everybody's Circulation")
 
 ---
+<!--  Unordered Lists -->
+
+Unordered Lists
+* Sober
+* Chichi
+  * Tipsy
+  * Dixie
+
+<!--  Ordered Lists -->
+
+Ordered List
+1. BIKE: Mountain Bike
+2. INTERIOR: EXTERIOR
+3. SHOES: SHADES
+
+    3.1. BUY THE BIKE !!!
+
+---
+
