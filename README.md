@@ -15,3 +15,14 @@ _THIS IS HOW TO MAKE TEXT ITALACIZED._
 *THIS TOO WILL BE ITALACIZED.*
 
 ---
+<!--  Strong  -->
+
+**ME STRONG**
+
+__YOU STRONG__
+
+---
+<!--  Strike through  -->
+~~I was chess player before~~ but then I want to cyclist to travel anywhere.
+
+---
